@@ -1,4 +1,4 @@
-# EOS.IO 技术白皮书
+# EOS.IO 技术白皮书-V1
 
 **草案：2017 年 6 月 26 日 (@dayzh (https://steemit.com/@dayzh))**
 
